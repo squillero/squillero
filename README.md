@@ -18,7 +18,5 @@ Here are some ideas to get you started:
 -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squillero&layout=compact&theme=solarized-light&count_private=true&langs_count=10)](https://squillero.github.io/)
-<!--
-[![Github stats](https://github-readme-stats.vercel.app/api?username=squillero&count_private=true&theme=solarized-light)](https://squillero.github.io/)
--->
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=squillero&layout=compact&theme=solarized-light&count_private=true&langs_count=10"  width="35%"/>](https://squillero.github.io/)
+[<img src="https://github-readme-stats.vercel.app/api?username=squillero&count_private=true&theme=solarized-light"  width="55%"/>](https://squillero.github.io/)
