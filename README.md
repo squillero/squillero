@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub followers](https://img.shields.io/github/followers/squillero?style=social)](https://github.com/squillero)
-[![GitHub Stars](https://img.shields.io//github/stars/:user?affiliations=OWNER%2CCOLLABORATOR)](https://github.com/squillero)
+[![GitHub Stars](https://img.shields.io//github/stars/squillero?affiliations=OWNER%2CCOLLABORATOR)](https://github.com/squillero)
 [![Twitter Followers](https://img.shields.io/twitter/follow/squillero?style=social)](https://twitter.com/squillero)
 
 
