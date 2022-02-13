@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 [![GitHub followers](https://img.shields.io/github/followers/squillero)](https://github.com/squillero)
 [![GitHub Stars](https://img.shields.io/github/stars/squillero?affiliations=OWNER%2CCOLLABORATOR)](https://github.com/squillero)
-[![Twitter Followers](https://img.shields.io/twitter/follow/squillero?label=@squillero)](https://twitter.com/squillero)
+[![Twitter Followers](https://img.shields.io/twitter/follow/squillero?label=@squillero&style=flat)](https://twitter.com/squillero)
 
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=squillero&count_private=true&include_all_commits=true&theme=solarized-light)](https://squillero.github.io/)
