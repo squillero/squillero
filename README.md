@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub followers](https://img.shields.io/github/followers/squillero?label=GitHub%20followers&style=for-the-badge)](https://github.com/squillero)
-[![Twitter Followers](https://img.shields.io/twitter/follow/squillero?label=Twitter%20followers&style=for-the-badge)](https://twitter.com/squillero)
-
-
 [![Github stats](https://github-readme-stats.vercel.app/api?username=squillero&count_private=true&include_all_commits=true&theme=aura_dark)](https://squillero.github.io/)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/109550655014581041)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squillero&layout=compact&theme=solarized-light&count_private=true&include_all_commits=true&langs_count=10)](https://squillero.github.io/)
